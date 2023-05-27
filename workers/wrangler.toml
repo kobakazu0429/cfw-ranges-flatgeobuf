@@ -1,0 +1,7 @@
+name = "rf"
+main = "src/index.ts"
+compatibility_date = "2022-12-25"
+
+kv_namespaces = [
+  { binding = "CACHE_TEST", id = "1d0fb82a03274f33a9dd5f8039e9eae5", preview_id = "8a02064dd2df40cbb886c2b5923f823d" }
+]
